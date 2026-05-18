@@ -1,0 +1,18 @@
+{
+  "couleurs_texte": {
+    "texte_standard": "#cbd5e1",
+    "titre_principal": "#38bdf8",
+    "sous_titres_maj": "#ffffff",
+    "puces_emojis": "#34d399",
+    "curseur_clignotant": "#38bdf8"
+  },
+  "couleurs_lava_lamp": [
+    "#1e3a8a",
+    "#0d9488",
+    "#4c1d95",
+    "#0369a1"
+  ],
+  "puces_detectees": [
+    "•", "▶", "-", "👋", "⚡", "💼", "🎓", "📜", "🗣", "📞", "💻", "🎨", "🧠", "📍", "✉", "📱"
+  ]
+}
