@@ -1,5 +1,7 @@
 # 🚀 GUIDE TECHNIQUE — CV INTERACTIF PREMIUM (v8)
 
+[![Pylint](https://github.com/Nathan-Pro-FR/CV-Python-JSON-Editeur/actions/workflows/pylint.yml/badge.svg)](https://github.com/Nathan-Pro-FR/CV-Python-JSON-Editeur/actions/workflows/pylint.yml)
+
 Ce guide complet t'explique comment mettre à jour le contenu textuel de ton CV ou modifier son apparence graphique à l'aide des deux fichiers de configuration externes.
 
 Language utilisées : 
